@@ -1,8 +1,8 @@
 # Deep Learning Nanodegree 
 
-This repository contains all the projects I worked on while finishing Udacity Deep Learning Nanodegree. I cretaed various models such as convolutional networks, recurrent networks, and GANs.
+This repository contains all the projects I worked on while finishing Udacity Deep Learning Nanodegree. I created various models such as convolutional networks, recurrent networks, and GANs.
 
-All these projects are reviewed by Udacity experts, and are successfully submitted and approved.
+All these projects are reviewed by Udacity experts, and are successfully submitted and passed.
 
 ## Projects
 
