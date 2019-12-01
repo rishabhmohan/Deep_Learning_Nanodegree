@@ -11,3 +11,4 @@ This repository contains all the Deep Learning projects I worked on while finish
 * [Face_Generation_GAN](https://github.com/rishabhmohan/Deep_Learning_Nanodegree/tree/master/Face_Generation_GAN): Use a DCGAN on the CelebA dataset to generate images of novel and realistic human faces.
 * [Sentiment_Analysis_LSTM_Model_Deployment_AWS_Sagemaker](https://github.com/rishabhmohan/Deep_Learning_Nanodegree/tree/master/Sentiment_Analysis_LSTM_Model_Deployment_AWS_Sagemaker): Deploy a LSTM model to analyze sentiments using AWS sagemaker and various other AWS services like lambda, API gateway
 
+![](Deep_Learning_Nanodegree_Certificate.pdf?raw=true)
